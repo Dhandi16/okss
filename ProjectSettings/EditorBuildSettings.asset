@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Karting/Scenes/IntroMenu.unity
+    guid: d29260d8d84c94bd7ac95807b3da99d4
+  - enabled: 1
+    path: Assets/Karting/Scenes/SelectKart.unity
+    guid: 28e28bd18d7d9584ca1dff3ea6f975b8
+  - enabled: 1
+    path: Assets/Karting/Scenes/TrackSelect.unity
+    guid: 729f062cb2072c442a1d03b8cf4cf770
+  - enabled: 1
+    path: Assets/Karting/Scenes/MainScene.unity
+    guid: 92786e23da2af4a4f8803aaf44c47121
+  - enabled: 1
+    path: Assets/Karting/Scenes/Track2.unity
+    guid: bfbf65976cf25dd4aa9854513e29aac3
+  - enabled: 1
+    path: Assets/Karting/Scenes/LoseScene.unity
+    guid: 9c449e01147824b419cda406398fb2e7
+  - enabled: 1
+    path: Assets/Karting/Scenes/WinScene.unity
+    guid: d6801f2e59f75ee4b919cf5da4e48e3b
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
